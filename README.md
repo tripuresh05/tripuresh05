@@ -1,5 +1,7 @@
 <div align="center">
 
+<!-- Snake animation: this requires the GitHub Action workflow below to be set up and run once
+     in your tripuresh05/tripuresh05 repo before this image will exist. See instructions below the file. -->
 <img src="https://raw.githubusercontent.com/tripuresh05/tripuresh05/output/snake.svg" alt="Snake animation" width="100%"/>
 
 <a href="https://tripuresh.web.app/">
@@ -13,7 +15,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tripureshtripathi355@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tripuresh.web.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tripuresh05&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=tripuresh05&style=for-the-badge&color=0e75b6)
 
 </div>
 
