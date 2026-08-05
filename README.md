@@ -3,7 +3,7 @@
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%"/>
 
 <a href="https://tripuresh.web.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tripuresh+Tripathi;Electronics+%2B+Computer+Science+Engineer;Full+Stack+Web+Developer;Hardware+%2B+Software+Integrator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+TRIPURESH+TRIPATHI;ELECTRONICS+%2B+COMPUTER+SCINECE+Engineer;Full+Stack+Web+Developer;Hardware+%2B+Software+Integrator" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tripuresh-tripathi-7a3744355/)
