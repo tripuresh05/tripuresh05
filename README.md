@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:0077B5&height=180&section=header&text=Tripuresh%20Tripathi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%2B%20CSE%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+
 <img src="https://raw.githubusercontent.com/tripuresh05/tripuresh05/output/snake.svg" alt="Snake animation" width="100%"/>
 
 <a href="https://tripuresh.web.app/">
@@ -181,6 +183,8 @@ Delivers the latest FreeFire tips, tricks, updates, strategies, events, and patc
 
 </div>
 
+<br/>
+
 ## 📊 GitHub Stats & Streaks
 
 <div align="center">
@@ -217,3 +221,5 @@ Delivers the latest FreeFire tips, tricks, updates, strategies, events, and patc
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tripuresh.web.app/)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00E676&height=100&section=footer"/>
