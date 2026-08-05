@@ -189,12 +189,12 @@ Delivers the latest FreeFire tips, tricks, updates, strategies, events, and patc
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tripuresh05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img width="49%" src="https://raw.githubusercontent.com/tripuresh05/tripuresh05/main/stats.svg"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=tripuresh05&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripuresh05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+<img width="49%" src="https://raw.githubusercontent.com/tripuresh05/tripuresh05/main/top-langs.svg"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tripuresh05&theme=tokyo-night"/>
 
 </div>
