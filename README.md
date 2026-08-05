@@ -93,7 +93,7 @@ Gamified EdTech platform for exam prep and Previous Year Questions (PYQ). Suppor
 A modern healthcare platform to streamline patient interactions and hospital operations, with smooth Framer Motion animations and robust appointment booking (React Hook Form + Zod validation).
 
 **Tech:** Next.js 16 · React 19 · TypeScript · Tailwind CSS · Framer Motion · Zod
-
+**🌐 Live Demo:** [Premium Hospital Management System](https://tripuresh05.github.io/medicovet-ai/)
 </details>
 
 <details open>
