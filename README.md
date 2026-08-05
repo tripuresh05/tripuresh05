@@ -142,11 +142,13 @@
 
 <details>
 <summary><b>🔥 FreeFire Tips & Updates Website</b></summary>
+
 <br>
 
 - Delivers the latest FreeFire tips, tricks, updates, strategies, events & patch news
 - Focused on fast information delivery for gaming users
 - **Tech:** HTML5 · CSS3 · JavaScript · Responsive Design
+- **🌐 Live Demo:** https://tripuresh05.github.io/khelo-free-fire/
 
 </details>
 
