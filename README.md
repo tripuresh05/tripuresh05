@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Snake animation: this requires the GitHub Action workflow below to be set up and run once
-     in your tripuresh05/tripuresh05 repo before this image will exist. See instructions below the file. -->
 <img src="https://raw.githubusercontent.com/tripuresh05/tripuresh05/output/snake.svg" alt="Snake animation" width="100%"/>
 
 <a href="https://tripuresh.web.app/">
