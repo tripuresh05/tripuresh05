@@ -179,7 +179,7 @@ Delivers the latest FreeFire tips, tricks, updates, strategies, events, and patc
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=tripuresh05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4)
+![](https://raw.githubusercontent.com/tripuresh05/tripuresh05/main/trophy.svg)
 
 </div>
 
