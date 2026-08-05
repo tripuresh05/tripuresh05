@@ -46,3 +46,31 @@ jobs:
           git add trophy.svg
           git diff --staged --quiet || git commit -m "Update trophy"
           git push
+
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: 'username=tripuresh05&show_icons=true&theme=tokyonight&hide_border=true'
+          path: stats.svg
+          token: ${{ secrets.TROPHY_TOKEN }}
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: 'username=tripuresh05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8'
+          path: top-langs.svg
+          token: ${{ secrets.TROPHY_TOKEN }}
+      - name: Commit stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats.svg top-langs.svg
+          git diff --staged --quiet || git commit -m "Update stats"
+          git push
