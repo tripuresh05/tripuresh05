@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/tripuresh05/tripuresh05/output/snake.svg" alt="Snake animation" width="100%"/>
 
 <a href="https://tripuresh.web.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E676&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Tripuresh+Tripathi;Electronics+%2B+Computer+Science+Engineer;Full+Stack+Web+Developer;Hardware+%2B+Software+Integrator" alt="Typing SVG" />
@@ -172,21 +172,21 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=tripuresh05&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
-
-</div>
+![](https://github-profile-trophy.vercel.app/?username=tripuresh05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4)
 
 ## 📊 GitHub Stats & Streaks
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tripuresh05&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tripuresh05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=tripuresh05&theme=tokyonight"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=tripuresh05&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripuresh05&layout=compact&theme=tokyonight"/>
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripuresh05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tripuresh05&theme=tokyo-night"/>
 
 </div>
 
@@ -211,6 +211,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tripureshtripathi355@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tripuresh.web.app/)
 
-[![](https://komarev.com/ghpvc/?username=tripuresh05&icon=0&color=0&style=for-the-badge)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=tripuresh05&style=for-the-badge&color=blue)
 
 </div>
