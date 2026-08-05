@@ -182,13 +182,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tripuresh05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=tripuresh05&theme=tokyonight&hide_border=false" width="49%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tripuresh05&show_icons=true&theme=tokyonight"/>
 
-<br/><br/>
+<img height="170" src="https://streak-stats.demolab.com?user=tripuresh05&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripuresh05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tripuresh05&theme=tokyonight&hide_border=false" width="49%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripuresh05&layout=compact&theme=tokyonight"/>
 
 </div>
 
