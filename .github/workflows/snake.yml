@@ -50,7 +50,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          keep_files: false
           commit_message: "chore: update snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
@@ -84,10 +83,10 @@ jobs:
           file: trophy.svg
           token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           theme: tokyonight
-          column: 7
+          max-cols: 7
           no-frame: false
-          margin-w: 10
-          margin-h: 10
+          margin-width: 10
+          margin-height: 10
 
       # 6. Commit and Push Generated Stats & Trophies to main
       - name: Commit and Push Updated Stats & Trophies
